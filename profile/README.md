@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./assets/zosma-banner.svg" alt="Zosma Labs — Ideias transformadas em software" width="100%" />
+<img src="./assets/zosma-banner.svg" alt="1Byte Labs — Ideias transformadas em software" width="100%" />
 
 <br />
 
 ### Software para transformar fluxos complexos em ferramentas simples.
 
-A Zosma Labs cria produtos independentes para **produção, mídia, apresentações e workflows técnicos** — do plugin integrado ao aplicativo completo.
+A 1Byte Labs cria produtos independentes para **produção, mídia, apresentações e workflows técnicos** — do plugin integrado ao aplicativo completo.
 
-[![Site](https://img.shields.io/badge/ZOSMA.COM.BR-0B1220?style=for-the-badge&logo=googlechrome&logoColor=21D4FD)](https://zosma.com.br)
+[![GitHub](https://img.shields.io/badge/1BYTE%20LABS-0B1220?style=for-the-badge&logo=googlechrome&logoColor=21D4FD)](https://github.com/zosmalabs)
 [![Produtos](https://img.shields.io/badge/PRODUTOS-0B1220?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/zosmalabs?tab=repositories)
 [![YouTube](https://img.shields.io/badge/YOUTUBE-0B1220?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://www.youtube.com/@zosmalabs)
 
@@ -47,9 +47,9 @@ Fundos independentes e personalizáveis para cada linha de letra.<br /><br />
 <a href="https://github.com/zosmalabs/fundos-para-letras-spresenter">Ver projeto →</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/zosmalabs/zosma-transmitter"><img src="./assets/zosma-transmitter.svg" alt="Zosma Transmitter" width="100%" /></a>
+<a href="https://github.com/zosmalabs/zosma-transmitter"><img src="./assets/zosma-transmitter.svg" alt="1Byte Labs Transmitter" width="100%" /></a>
 <br /><br />
-<strong>Zosma Transmitter</strong><br />
+<strong>1Byte Labs Transmitter</strong><br />
 Transmissão NDI portátil de tela ou janela com vídeo, áudio e privacidade.<br /><br />
 <code>Windows</code> <code>NDI</code> <code>Beta</code><br /><br />
 <a href="https://github.com/zosmalabs/zosma-transmitter">Ver projeto →</a>
@@ -61,7 +61,7 @@ Transmissão NDI portátil de tela ou janela com vídeo, áudio e privacidade.<b
 
 ## Produto em destaque
 
-<a href="https://zosma.com.br/multitrack-tools/"><img src="./assets/multitrack-tools.svg" alt="Multitrack Tools — Seu playback. Seu setlist. Tudo sob controle." width="100%" /></a>
+<a href="https://github.com/zosmalabs"><img src="./assets/multitrack-tools.svg" alt="Multitrack Tools — Seu playback. Seu setlist. Tudo sob controle." width="100%" /></a>
 
 <div align="center">
 
@@ -71,7 +71,7 @@ O **Multitrack Tools** transforma o REAPER em uma central para playback ao vivo,
 
 **Windows · macOS · Linux** &nbsp; · &nbsp; **Licença vitalícia** &nbsp; · &nbsp; **Atualizações incluídas**
 
-[**Conhecer o Multitrack Tools →**](https://zosma.com.br/multitrack-tools/)
+Página do produto em atualização.
 
 </div>
 
@@ -87,14 +87,14 @@ Plugins, aplicações e ferramentas pensados para integrar-se ao que você já u
 
 ### Conteúdo & comunidade
 
-[**YouTube**](https://www.youtube.com/@zosmalabs) &nbsp; · &nbsp; [**Tutoriais**](https://www.youtube.com/@zosmalabs) &nbsp; · &nbsp; [**Projetos open source**](https://github.com/zosmalabs?tab=repositories) &nbsp; · &nbsp; [**Site**](https://zosma.com.br)
+[**YouTube**](https://www.youtube.com/@zosmalabs) &nbsp; · &nbsp; [**Tutoriais**](https://www.youtube.com/@zosmalabs) &nbsp; · &nbsp; [**Projetos open source**](https://github.com/zosmalabs?tab=repositories) &nbsp; · &nbsp; [**GitHub**](https://github.com/zosmalabs)
 
 <br />
 
-<img src="./assets/zosma-symbol.svg" alt="Zosma" width="64" />
+<img src="./assets/zosma-symbol.svg" alt="1Byte Labs" width="64" />
 
 ### Ideias transformadas em software.
 
-**[zosma.com.br](https://zosma.com.br)**
+**[1Byte Labs](https://github.com/zosmalabs)**
 
 </div>
