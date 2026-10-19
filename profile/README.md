@@ -47,15 +47,15 @@ Fundos independentes e personalizáveis para cada linha de letra.<br /><br />
 <a href="https://github.com/1bytelabs/fundos-para-letras-spresenter">Ver projeto →</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/1bytelabs/zosma-transmitter"><img src="./assets/1bytelabs-transmitter.svg" alt="1Byte Labs Transmitter" width="100%" /></a>
+<a href="https://github.com/1bytelabs/1bytelabs-transmitter"><img src="./assets/1bytelabs-transmitter.svg" alt="1Byte Labs Transmitter" width="100%" /></a>
 <br /><br />
 <strong>1Byte Labs Transmitter</strong><br />
 Transmissão NDI portátil de tela ou janela com vídeo, áudio e privacidade.<br /><br />
 <code>Windows</code> <code>NDI</code> <code>Beta</code><br /><br />
-<a href="https://github.com/1bytelabs/zosma-transmitter">Ver projeto →</a>
+<a href="https://github.com/1bytelabs/1bytelabs-transmitter">Ver projeto →</a>
 </td>
 </tr>
-<tr><td width="50%" valign="top"><a href="https://github.com/1bytelabs/obs-multichat"><img src="./assets/obs-multichat.svg" alt="OBS Multichat — 1Byte Labs" width="100%" /></a><br /><br /><strong>OBS Multichat</strong><br />Conversas integradas à sua transmissão.<br /><br /><a href="https://github.com/1bytelabs/obs-multichat">Ver projeto →</a></td><td width="50%" valign="top"><a href="https://github.com/1bytelabs/zosma-transmitter/tree/feature/zosma-send-vst3"><img src="./assets/1bytelabs-send.svg" alt="1Byte Labs Send — VST3" width="100%" /></a><br /><br /><strong>1Byte Labs Send</strong><br />Plugin VST3 para envio de áudio via NDI. Protótipo em desenvolvimento.<br /><br /><a href="https://github.com/1bytelabs/zosma-transmitter/tree/feature/zosma-send-vst3">Ver protótipo →</a></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/1bytelabs/obs-multichat"><img src="./assets/obs-multichat.svg" alt="OBS Multichat — 1Byte Labs" width="100%" /></a><br /><br /><strong>OBS Multichat</strong><br />Conversas integradas à sua transmissão.<br /><br /><a href="https://github.com/1bytelabs/obs-multichat">Ver projeto →</a></td><td width="50%" valign="top"><a href="https://github.com/1bytelabs/1bytelabs-transmitter/tree/feature/zosma-send-vst3"><img src="./assets/1bytelabs-send.svg" alt="1Byte Labs Send — VST3" width="100%" /></a><br /><br /><strong>1Byte Labs Send</strong><br />Plugin VST3 para envio de áudio via NDI. Protótipo em desenvolvimento.<br /><br /><a href="https://github.com/1bytelabs/1bytelabs-transmitter/tree/feature/zosma-send-vst3">Ver protótipo →</a></td></tr>
 </table>
 
 ---
