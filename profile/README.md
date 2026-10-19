@@ -8,7 +8,7 @@
 
 A 1Byte Labs cria produtos independentes para **produção, mídia, apresentações e workflows técnicos** — do plugin integrado ao aplicativo completo.
 
-[![GitHub](https://img.shields.io/badge/1BYTE%20LABS-0B1220?style=for-the-badge&logo=googlechrome&logoColor=21D4FD)](https://github.com/1bytelabs)
+[![Site](https://img.shields.io/badge/1BYTELABS.COM.BR-0B1220?style=for-the-badge&logo=googlechrome&logoColor=21D4FD)](https://1bytelabs.com.br)
 [![Produtos](https://img.shields.io/badge/PRODUTOS-0B1220?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/1bytelabs?tab=repositories)
 [![YouTube](https://img.shields.io/badge/YOUTUBE-0B1220?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://www.youtube.com/@zosmalabs)
 
@@ -55,6 +55,7 @@ Transmissão NDI portátil de tela ou janela com vídeo, áudio e privacidade.<b
 <a href="https://github.com/1bytelabs/zosma-transmitter">Ver projeto →</a>
 </td>
 </tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/1bytelabs/obs-multichat"><img src="./assets/obs-multichat.svg" alt="OBS Multichat — 1Byte Labs" width="100%" /></a><br /><br /><strong>OBS Multichat</strong><br />Conversas integradas à sua transmissão.<br /><br /><a href="https://github.com/1bytelabs/obs-multichat">Ver projeto →</a></td><td width="50%" valign="top"><a href="https://github.com/1bytelabs/zosma-transmitter/tree/feature/zosma-send-vst3"><img src="./assets/1bytelabs-send.svg" alt="1Byte Labs Send — VST3" width="100%" /></a><br /><br /><strong>1Byte Labs Send</strong><br />Plugin VST3 para envio de áudio via NDI. Protótipo em desenvolvimento.<br /><br /><a href="https://github.com/1bytelabs/zosma-transmitter/tree/feature/zosma-send-vst3">Ver protótipo →</a></td></tr>
 </table>
 
 ---
@@ -71,7 +72,7 @@ O **Multitrack Tools** transforma o REAPER em uma central para playback ao vivo,
 
 **Windows · macOS · Linux** &nbsp; · &nbsp; **Licença vitalícia** &nbsp; · &nbsp; **Atualizações incluídas**
 
-Página do produto em atualização.
+[**Conhecer o Multitrack Tools →**](https://1bytelabs.com.br)
 
 </div>
 
@@ -95,6 +96,6 @@ Plugins, aplicações e ferramentas pensados para integrar-se ao que você já u
 
 ### Ideias transformadas em software.
 
-**[1Byte Labs](https://github.com/1bytelabs)**
+**[1bytelabs.com.br](https://1bytelabs.com.br)** · [contato@1bytelabs.com.br](mailto:contato@1bytelabs.com.br)
 
 </div>
